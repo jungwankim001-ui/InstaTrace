@@ -56,6 +56,8 @@ Many private accounts (even with collabs) return **NOT VULNERABLE** or no privat
 
 ## I'm not responsible for anything
 
+**original writeup https://medium.com/@jatin.b.rx3/i-found-a-bug-that-exposed-private-instagram-posts-to-anyone-eebb7923f7e3**
+
 ## Requirements
 
 Python 3.8 or newer
